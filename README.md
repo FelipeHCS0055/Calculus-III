@@ -22,8 +22,6 @@ Here's a curated list of videos and websites that I found particularly helpful f
 
 #### 🕸️ Websites
 
-- **[Math Insight](https://mathinsight.org/thread/multivar)**
-
 | Website                                                                                              	    | Preview 	|
 |-------------------------------------------------------------------------------------------------------	    |---------	|
 | **[Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)**    	|<a href="https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx"> <img alt="alt_text" width="340px" src="media\pauls.png" /></a>|
